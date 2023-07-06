@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.frhnfrq:MathView:1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5a50b4240ec642878525ec231bcb4b6/transformed/jetified-MathView-1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5a50b4240ec642878525ec231bcb4b6/transformed/jetified-MathView-1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.frhnfrq/MathView/1.1/5950766fd2e4159c1f7565385d9653f0cea02190/MathView-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

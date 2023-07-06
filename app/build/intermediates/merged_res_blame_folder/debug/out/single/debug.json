@@ -1,0 +1,1958 @@
+[
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/menu_navigation.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/menu/navigation.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_calender_time.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_calender_time.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_subject_detail_dialog.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/subject_detail_dialog.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_onlineexam_questions.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_onlineexam_questions.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_library_book_issued_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_library_book_issued_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_apply_leave.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_apply_leave.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_profile.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_profile.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_nav_header.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_arrow_down.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_corner.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/corner.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_custom_tab.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/custom_tab.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_report_card_exam_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_report_card_exam_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_question_wise_layout_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/question_wise_layout_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_live_classes.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_live_classes.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_web_yellow.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_web_yellow.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_email.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_email.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_relation.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_relation.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_subject.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_subject.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_courseperformance.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/courseperformance.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_download_accent.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_download_accent.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_online_course.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_online_course.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_hostel.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_hostel.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_notification_logo_trans.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/notification_logo_trans.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_description.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_pink_border.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/pink_border.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_switch.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_switch.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_rb_login_default_style.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/rb_login_default_style.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_grey_button.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/grey_button.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_bottom_navigation_background.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/bottom_navigation_background.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_attendance.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_attendance.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_events.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_events.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_documents_certificate.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_documents_certificate.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_add_leave.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/add_leave.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_hostel.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_hostel.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_badge_background.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_profile_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_profile_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_photo_library.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_photo_library.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_tasks.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_tasks.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_online_quiz_result.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_online_quiz_result.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_arrow_up.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_view.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_view.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_img_background_main.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/img_background_main.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_round_grey.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/round_grey.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_subject_activity_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_subject_activity_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_homework.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_homework.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_teacher_activity_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_teacher_activity_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_whatsapp.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_online_exam.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_online_exam.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_arrow_right.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_arrow_right.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_slide_leftright.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/slide_leftright.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_uploadfile.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/uploadfile.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_students_subject_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/students_subject_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_liveclass.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_liveclass.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_routine.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_routine.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_library_book_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_library_book_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_sylllabuslist.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_sylllabuslist.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_edittext_stlye.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/edittext_stlye.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_rounded_square.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/rounded_square.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_logout.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_logout.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_description.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_clock.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_clock.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_red_border.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/red_border.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_dashboard_pandingtask.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_dashboard_pandingtask.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_dashboard_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_dashboard_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_nav_footer.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/nav_footer.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_logo_small.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/logo_small.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_publisher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_publisher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_library_book_issued.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_library_book_issued.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_check.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_check.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_student_profile.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_student_profile.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_email_filled.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_email_filled.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_quiz_layout.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/quiz_layout.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_baseline_done.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/baseline_done.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_add_task_dialog.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/add_task_dialog.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_open_book.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_open_book.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_img_login_background.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/img_login_background.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_subjectlistnew.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_subjectlistnew.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_corner2.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/corner2.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_courselist.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_courselist.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_teacher_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_teacher_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_class_subjectlist_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_class_subjectlist_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_course_performance.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_course_performance.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_start_section.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_start_section.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_download.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_add_student_leave.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/add_student_leave.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_teacher_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_teacher_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_roboto_calendar_picker_layout.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/roboto_calendar_picker_layout.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_fees.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_fees.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_upload_homework.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/upload_homework.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_description.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_drawer_selector.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/drawer_selector.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_online_exam_question.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/online_exam_question.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_check_mark.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/check_mark.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_back.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_back.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_consolidate_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_consolidate_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_green_outline.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/green_outline.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_up_from_bottom.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/up_from_bottom.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_exam_schedule_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_exam_schedule_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_splash_logo.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/splash_logo.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_library_book.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_library_book.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_student_classtimetable.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_student_classtimetable.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_roboto_calendar_month_layout.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/roboto_calendar_month_layout.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_folder_shared.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_folder_shared.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_start_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_start_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_teacher.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_teacher.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_examination.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_examination.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_about.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_about.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_hostel_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_hostel_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_close.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_close.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_selected_file.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/selected_file.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_exam_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_exam_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_login_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_login_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_calender.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_calender.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_presentation_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/presentation_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_reportcard_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_reportcard_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_description.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_description.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_circle_blue.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/circle_blue.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_notification_logo.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/notification_logo.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_report_card_exam_list_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_report_card_exam_list_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_online_exam_result.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_online_exam_result.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_button_text_color.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/button_text_color.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_file_upload.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_file_upload.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_lesson_topic_dialoug.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/lesson_topic_dialoug.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_personal_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_personal_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_report_card_exam_result_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_report_card_exam_result_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_videocam.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_videocam.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_profile_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_profile_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_placeholder_user.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/placeholder_user.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_add_leave_dialoug.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/add_leave_dialoug.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_slide_rightleft.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/slide_rightleft.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-v24_baseline_done.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable-v24/baseline_done.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_routine.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_routine.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_online_exams.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_online_exams.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_description.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_rounded_rect.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/rounded_rect.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_lesson_description.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/lesson_description.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_button_style_grey.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/button_style_grey.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_onlinecourse.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_onlinecourse.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_calender_cross.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_calender_cross.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_dashboard_attendance.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_dashboard_attendance.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_radio_button.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/radio_button.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_notification_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_notification_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_wrong_mark.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/wrong_mark.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_eye_grey.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/eye_grey.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_fullscreen_open.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_fullscreen_open.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_eye_black.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/eye_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_timeline.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_timeline.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_syllabus.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_syllabus.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_student_download_assignment.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_student_download_assignment.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_radiobutton_black.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/radiobutton_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_info.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_info.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_fragment_studentdownload.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_fragment_studentdownload.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_open_pdf.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_open_pdf.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_briefcase.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_briefcase.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_syllabus.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_syllabus.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_hostel_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_hostel_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_default_image.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/default_image.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_library.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_course_curriculum_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_course_curriculum_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_downloads_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_downloads_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_login_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/login_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_no_data.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/no_data.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_lessonplan.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_lessonplan.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_classtimetable.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_classtimetable.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_courseperformance_data.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/courseperformance_data.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_dashboard_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_dashboard_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_roboto_calendar_week_layout.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/roboto_calendar_week_layout.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_photo_camera.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_photo_camera.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_transport.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_transport.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_students_fees_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/students_fees_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_reset.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_reset.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/color_textview_color.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/color/textview_color.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_add_rating_dialog.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/add_rating_dialog.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_test_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/test_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_homework_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_homework_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_uploadfile.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/uploadfile.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_dashboard_fragment.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_dashboard_fragment.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ring.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ring.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_forgot_password_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/forgot_password_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_onlinequiz_result.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_onlinequiz_result.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_liveclasses_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/liveclasses_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_bus.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_bus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_splash_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/splash_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_about_school_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/about_school_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_file_save.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_file_save.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_slide_in.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/slide_in.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_transport_vehicle.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_transport_vehicle.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_img_takeurl_background.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/img_takeurl_background.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_subtract_black.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_subtract_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_report_card_exam_gparesult.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_report_card_exam_gparesult.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_report_card_exam_result.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_report_card_exam_result.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_clipboard_filled.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_clipboard_filled.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_app_icon.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/app_icon.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_down_arrow.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_down_arrow.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_style_button.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/style_button.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_file.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_file.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_online_logo.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/online_logo.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_exam_schedule.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_exam_schedule.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_base_menu_items.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/base_menu_items.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_transport_routes_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_transport_routes_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_description.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_lock_filled.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_lock_filled.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_reset.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_reset.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_chat_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_chat_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_green_border.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/green_border.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_homework_details_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_homework_details_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_fees_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_fees_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_list_row.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/list_row.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_file_download.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_file_download.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_red_button.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/red_button.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_navigate_next.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_navigate_next.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_choose_file.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/choose_file.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_location.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_location.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_phone_filled.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_phone_filled.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_closed_book.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_closed_book.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_checkbox_background.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/checkbox_background.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_reportcard.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_reportcard.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_green_button.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/green_button.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_yellow_border.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/yellow_border.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_documents.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_documents.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_other_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_other_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_teacher_detail_dialog.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/teacher_detail_dialog.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_dashboard_calender.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_dashboard_calender.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/menu_options_menu.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/menu/options_menu.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_start_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_start_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_student_profile_parents_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_student_profile_parents_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_cart_list_item.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/cart_list_item.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_gmeet_live_classes.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_gmeet_live_classes.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_test.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_test.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_pdf_file.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/pdf_file.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_no_animation.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/no_animation.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_teacher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_teacher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_add_black.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_add_black.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_base_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/base_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_consolidate_detail_dialog.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/consolidate_detail_dialog.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_user.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_user.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_timeline_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_timeline_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_photo_library.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_photo_library.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_teachers.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_teachers.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_questions.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/questions.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_new_logo.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/new_logo.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_folder_shared.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_folder_shared.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_attendance_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_attendance_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_examschedule_examlist_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_examschedule_examlist_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_dashboard_homework.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_dashboard_homework.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_youtube_icon.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/youtube_icon.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_subject_atten.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_subject_atten.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_play_button.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/play_button.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_timeline.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_timeline.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_roboto_calendar_day_of_the_month_layout.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/roboto_calendar_day_of_the_month_layout.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_routine_details.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_routine_details.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_notice_board_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_notice_board_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_photo_camera.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_photo_camera.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_slide_out.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/slide_out.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_transport.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_transport.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_empty_divider.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/empty_divider.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_minus_black.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_minus_black.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_room.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_room.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_parent_student_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_parent_student_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_start_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_start_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_sylllabuslist.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_sylllabuslist.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/menu_base_activity_drawer.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/menu/base_activity_drawer.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_fees_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_fees_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_message.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/message.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_lesson_topics.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_lesson_topics.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/font_font.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/font/font.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_quiz.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_quiz.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_plus_white.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_plus_white.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_gmeetliveclass.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_gmeetliveclass.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_arrow_left.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_arrow_left.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_take_url_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/take_url_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_add_leave.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/add_leave.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_dashboard_noticeboard.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_dashboard_noticeboard.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_check_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_check_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_phone.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_phone.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_up_arrow_blue.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_up_arrow_blue.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_subject_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_subject_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_course_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_course_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_button_style_accent.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/button_style_accent.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_profile_plus.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_profile_plus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_syllabus_status.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_syllabus_status.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_subject_type.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_subject_type.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_access_time_black_24dp.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_student_profile_parents.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_student_profile_parents.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_hostel_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_hostel_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_wrong.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_wrong.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_demo2.jpg.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/demo2.jpg"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_documents_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_documents_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_style_button_background.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/style_button_background.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_arrow_up.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_arrow_up.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_syllabs_status.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_syllabs_status.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_exam_schedule_exam_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_exam_schedule_exam_list.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_online_exams.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_online_exams.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_tasks_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_tasks_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_examlist.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_examlist.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_add_alert.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_add_alert.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_rb_login_selected_style.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/rb_login_selected_style.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_class_timetable_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_class_timetable_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_teacher_detail.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_teacher_detail.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_subject.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_subject.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_nav_hostel.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_nav_hostel.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_listview.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_listview.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_notification.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_notification.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_file_upload.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_course_curriculum.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_course_curriculum.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_online_exam_questions.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_online_exam_questions.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_attach_file_black.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_attach_file_black.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_payment_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/payment_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_grey_outline.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/grey_outline.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_student_syllabus_timetable_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/student_syllabus_timetable_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_exam_result.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_exam_result.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_syllabs_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_syllabs_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_navigate_previous.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_navigate_previous.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_attach_file_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxxhdpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxxhdpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_syllabus.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_syllabus.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_subject.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_subject.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_videoplay_activity.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/videoplay_activity.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_dashboard_bottomsheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_dashboard_bottomsheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xhdpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xhdpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_activity_student_syllabus_lesson.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/activity_student_syllabus_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-anydpi-v21_ic_check_black.xml.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-anydpi-v21/ic_check_black.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_navigate_previous.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_navigate_previous.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/anim_down_from_top.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/anim/down_from_top.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_navigate_next.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_navigate_next.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_play_icon.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_play_icon.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_homework_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_homework_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-hdpi_ic_edit.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_add_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_file_download.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_file_download.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_ic_down_arrow_blue.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/ic_down_arrow_blue.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-mdpi_ic_add_alert.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-mdpi/ic_add_alert.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_minus_black.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_minus_black.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_fees.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_fees.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-xxhdpi_ic_videocam.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-xxhdpi/ic_videocam.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_applyleavet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_applyleavet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_transport_route_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_transport_route_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_adapter_student_chat.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/adapter_student_chat.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_quiz_questions.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/quiz_questions.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_upload_homework_new.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/upload_homework_new.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/layout_fragment_notification_bottom_sheet.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/layout/fragment_notification_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable_baseline_receipt.png.flat",
+        "source": "com.qdocs.smartschool.app-main-23:/drawable/baseline_receipt.png"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-21:/drawable-ldpi_ic_description.png.flat",
+        "source": "com.qdocs.smartschool.app-pngs-17:/drawable-ldpi/ic_description.png"
+    }
+]

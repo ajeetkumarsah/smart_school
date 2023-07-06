@@ -1,0 +1,5 @@
+com.qdocs.smartschool.test.app-androidTest-0 D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\build\generated\res\resValues\androidTest\debug
+com.qdocs.smartschool.test.app-androidTest-1 D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\build\generated\res\rs\androidTest\debug
+com.qdocs.smartschool.test.app-mergeDebugAndroidTestResources-2 D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.qdocs.smartschool.test.app-mergeDebugAndroidTestResources-3 D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.qdocs.smartschool.test.app-merged_res-4 D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\build\intermediates\merged_res\debugAndroidTest

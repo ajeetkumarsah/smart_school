@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/activity_routine.xml" value="0.2761855132881709" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/activity_routine_details.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/adapter_routine.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/adapter_student_applyleavet.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/adapter_student_homework.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/adapter_student_hostel.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/adapter_student_hostel_detail.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/fragment_homework_bottom_sheet.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/login_activity.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/student_homework_activity.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/layout/student_homework_details_activity.xml" value="0.22554347826086957" />
+        <entry key="..\:/Ajeet Kumar Sah/Android/smart_school_android_app_src/app/src/main/res/menu/base_activity_drawer.xml" value="0.2760416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

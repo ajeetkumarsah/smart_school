@@ -1,0 +1,694 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\3df4e5f93f01ddb1f1057249a8bf4e03\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.frhnfrq:MathView:1.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\c5a50b4240ec642878525ec231bcb4b6\transformed\jetified-MathView-1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\8c90258a05236bb9de42c5ad47d7cfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f89fd55b75f3ec332e525836f6009cab\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9e4b101e84956488c4ac10e3791265be\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cbea099d21f40178a915a8e1781e1ce6\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\da54133dfb746b4b6ebfad0cadb8e58c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57384784a2883784f8dcc85ff2427f84\transformed\jetified-junit-1.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\4f6e91c13b8202a10bb208ce83eaaab0\transformed\jetified-threetenabp-1.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\09e16e1710fe0196aa47cc783a870f83\transformed\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\220309cd4772e77222f2620466cc6a9d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\5ae3660e2c88858c950a8e4808de37ad\transformed\jetified-volley-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\b06402955e9a9d7dfd8204617fc0c41e\transformed\jetified-library-1.2.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\36fe4bd87a963f73148b776a1445abe2\transformed\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d79f0b1e04c5b59e75d746ffd24b18a2\transformed\jetified-eazegraph-1.2.5l\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2aa6eb176ef4594e3f86e7e54a8f9c74\transformed\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6d80436f2c721f9feff9afb28b23744\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\accc618511aaeacc8a10bd91080750de\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a2359164927b4ff6be0a1395290865d1\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\906ac9a93c1043699ff32a66b40c9546\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57891f80f7fb2536ddf0196f6ba749fa\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6b9dc49b72918eea60bcb9b18009382\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f2e7296939f8340b940a3234be4c43ce\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\05c813ae4b755be101029b0e6694dbfc\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d3593412a8cc8b550019139425d6b99f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2bcf92ac9552b41517f1e0174cad5d74\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e44fdfcd9fa400694cbdf8beb75870d0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a24861241a1bef940d47c7361f68307d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\49d98ed3c202b8ab24ccbd0f77b3dedd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\0f87bf009742ac456b4f968d931878e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6846ba2f0d475797be5f5b846bd64567\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7ae2da507c9b4b0ebe81011487ad5f07\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d2dac72b226f0869d2dd810ee8b6fed9\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\65ff57c5cc5a14693cfd9c128aa2c53f\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9105e7c865c8e75a67ea28de63aeba8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\01d908b9f40aed9b46866f865e4c62b5\transformed\monitor-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c012d829e3749b594c88be26b38f603\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\ace235149a2af72c1a93e73e52ccaf35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9c03efda3b528c669583f68c7d85781c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d96d128fbeafd3e60b50e946cc593d88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6c9437b84666a4cb39a8258eeab2dbdc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\98de6df431a8dd60ac5f62b13f5326be\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\eaea44f5fc0a7ed1bb73e4c841adedf9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d4370f2e1d6676df168b3fe5be288104\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e1177077e2a794976f176b0a971d9ba1\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\fc2169ee286fc52c4c6378ca756c7ad9\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+	package
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:1-133:12
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:4:5-73
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:4:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:7:9-53
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:14:9-49
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:16:22-72
+uses-feature#android.hardware.telephony
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:19:9-50
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:22:9-57
+application
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:25:5-131:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\3df4e5f93f01ddb1f1057249a8bf4e03\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\3df4e5f93f01ddb1f1057249a8bf4e03\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9e4b101e84956488c4ac10e3791265be\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9e4b101e84956488c4ac10e3791265be\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\4f6e91c13b8202a10bb208ce83eaaab0\transformed\jetified-threetenabp-1.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\4f6e91c13b8202a10bb208ce83eaaab0\transformed\jetified-threetenabp-1.2.1\AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\09e16e1710fe0196aa47cc783a870f83\transformed\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\09e16e1710fe0196aa47cc783a870f83\transformed\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\36fe4bd87a963f73148b776a1445abe2\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\36fe4bd87a963f73148b776a1445abe2\transformed\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d79f0b1e04c5b59e75d746ffd24b18a2\transformed\jetified-eazegraph-1.2.5l\AndroidManifest.xml:12:5-13:19
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d79f0b1e04c5b59e75d746ffd24b18a2\transformed\jetified-eazegraph-1.2.5l\AndroidManifest.xml:12:5-13:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2aa6eb176ef4594e3f86e7e54a8f9c74\transformed\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2aa6eb176ef4594e3f86e7e54a8f9c74\transformed\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6d80436f2c721f9feff9afb28b23744\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6d80436f2c721f9feff9afb28b23744\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\accc618511aaeacc8a10bd91080750de\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\accc618511aaeacc8a10bd91080750de\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a2359164927b4ff6be0a1395290865d1\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a2359164927b4ff6be0a1395290865d1\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\65ff57c5cc5a14693cfd9c128aa2c53f\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\65ff57c5cc5a14693cfd9c128aa2c53f\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:26:5-51:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c012d829e3749b594c88be26b38f603\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c012d829e3749b594c88be26b38f603\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:30:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:28:9-45
+	android:launchMode
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:29:9-44
+	android:roundIcon
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:31:9-47
+	android:icon
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:27:9-42
+	android:theme
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:33:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:26:9-36
+activity#com.qdocs.smartschool.RoutineDetailsActivity
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:36:13-51
+activity#com.qdocs.smartschool.students.RoutineActivity
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:39:13-53
+activity#com.qdocs.smartschool.students.StudentCoursePerformance
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:41:9-71
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:41:19-68
+activity#com.qdocs.smartschool.students.StudentUploadDocument
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:42:9-68
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:42:19-65
+activity#com.qdocs.smartschool.students.StudentCourseDetail
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:43:9-45:93
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:45:13-90
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:44:13-57
+activity#com.qdocs.smartschool.students.StudentOnlineCourse
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:46:9-66
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:46:19-63
+activity#com.qdocs.smartschool.students.StudentStartLessonActivity
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:47:9-49:62
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:49:13-59
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:48:13-64
+activity#com.qdocs.smartschool.students.StudentLiveClasses
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:50:9-65
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:50:19-62
+activity#com.qdocs.smartschool.students.StudentGmeetLiveClasses
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:51:9-70
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:51:19-67
+activity#com.qdocs.smartschool.students.NotificationList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:52:9-63
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:52:19-60
+activity#com.qdocs.smartschool.students.StudentOnlineExamQuestionsNew
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:53:9-55:62
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:54:13-67
+activity#com.qdocs.smartschool.students.StudentOnlineExamResult
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:56:9-70
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:56:19-67
+activity#com.qdocs.smartschool.students.StudentOnlineExam
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:57:9-64
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:57:19-61
+activity#com.qdocs.smartschool.AboutSchool
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:58:9-49
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:58:19-46
+activity#com.qdocs.smartschool.students.StudentTimeline
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:59:9-62
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:59:19-59
+activity#com.qdocs.smartschool.students.StudentDocuments
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:60:9-63
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:60:19-60
+activity#com.qdocs.smartschool.SplashActivity
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:61:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:65:27-74
+activity#com.qdocs.smartschool.Login
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:68:9-43
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:68:19-40
+activity#com.qdocs.smartschool.students.StudentProfile
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:69:9-61
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:69:19-58
+activity#com.qdocs.smartschool.students.StudentProfileNew
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:70:9-64
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:70:19-61
+activity#com.qdocs.smartschool.students.StudentProfileDetailsNew
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:71:9-71
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:71:19-68
+activity#com.qdocs.smartschool.students.StudentUploadHomework
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:72:9-68
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:72:19-65
+activity#com.qdocs.smartschool.ForgotPassword
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:73:9-52
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:73:19-49
+activity#com.qdocs.smartschool.BaseActivity
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:74:9-50
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:74:19-47
+activity#com.qdocs.smartschool.students.StudentFees
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:75:9-83:20
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:75:19-55
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:student_fees
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:76:13-82:29
+action#android.intent.action.VIEW
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:79:27-73
+data
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:81:17-55
+	android:scheme
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:81:23-52
+activity#com.qdocs.smartschool.students.StudentNoticeBoard
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:84:9-65
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:84:19-62
+activity#com.qdocs.smartschool.students.StudentExaminationList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:85:9-69
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:85:19-66
+activity#com.qdocs.smartschool.students.StudentReportCard_ExamListResult
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:86:9-79
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:86:19-76
+activity#com.qdocs.smartschool.students.StudentSubjectList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:87:9-65
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:87:19-62
+activity#com.qdocs.smartschool.students.StudentTeachersList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:88:9-66
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:88:19-63
+activity#com.qdocs.smartschool.students.StudentTransportRoutes
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:89:9-69
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:89:19-66
+activity#com.qdocs.smartschool.students.StudentDownloads
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:90:9-63
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:90:19-60
+activity#com.qdocs.smartschool.students.StudentAttendance
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:91:9-64
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:91:19-61
+activity#com.qdocs.smartschool.students.StudentReportCard_ExamList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:92:9-73
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:92:19-70
+activity#com.qdocs.smartschool.students.StudentExamSchedule_ExamList
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:93:9-75
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:93:19-72
+activity#com.qdocs.smartschool.students.StudentExamSchedule
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:94:9-66
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:94:19-63
+activity#com.qdocs.smartschool.students.StudentHostel
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:95:9-60
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:95:19-57
+activity#com.qdocs.smartschool.students.StudentLibraryBook
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:96:9-65
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:96:19-62
+activity#com.qdocs.smartschool.students.StudentClassTimetable
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:97:9-68
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:97:19-65
+activity#com.qdocs.smartschool.students.StudentSyllabusTimetable
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:98:9-71
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:98:19-68
+activity#com.qdocs.smartschool.students.StudentSyllabusStatus
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:99:9-68
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:99:19-65
+activity#com.qdocs.smartschool.students.StudentHomework
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:100:9-62
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:100:19-59
+activity#com.qdocs.smartschool.students.StudentHomeworkDetails
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:101:9-69
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:101:19-66
+activity#com.qdocs.smartschool.students.StudentLibraryBookIssued
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:102:9-71
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:102:19-68
+activity#com.qdocs.smartschool.students.StudentAppyLeave
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:103:9-63
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:103:19-60
+activity#com.qdocs.smartschool.students.StudentAddLeave
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:104:9-62
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:104:19-59
+activity#com.qdocs.smartschool.students.StudentEditLeave
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:105:9-63
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:105:19-60
+activity#com.qdocs.smartschool.students.StudentSyllabus
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:106:9-62
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:106:19-59
+activity#com.qdocs.smartschool.students.StudentOnlineQuizResult
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:107:9-70
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:107:19-67
+activity#com.qdocs.smartschool.students.StudentSyllabuslesson
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:108:9-68
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:108:19-65
+activity#com.qdocs.smartschool.students.StudentOnlineCourseQuiz
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:109:9-70
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:109:19-67
+activity#com.qdocs.smartschool.TakeUrl
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:110:9-112:62
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:112:13-59
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:111:13-36
+activity#com.qdocs.smartschool.OpenPdf
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:113:9-45
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:113:19-42
+activity#com.qdocs.smartschool.students.StudentDashboard
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:114:9-116:77
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:116:13-74
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:115:13-54
+activity#com.qdocs.smartschool.students.StudentTasks
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:117:9-59
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:117:19-56
+activity#com.qdocs.smartschool.students.Payment
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:118:9-54
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:118:19-51
+activity#com.qdocs.smartschool.students.CoursePayment
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:119:9-60
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:119:19-57
+activity#com.qdocs.smartschool.students.CourseVideoPlay
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:120:9-123:53
+	android:screenOrientation
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:123:13-50
+	android:configChanges
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:122:13-59
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:121:13-53
+activity#com.qdocs.smartschool.students.LiveClasses
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:124:9-58
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:124:19-55
+service#com.qdocs.smartschool.utils.MyFirebaseMessagingService
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:126:9-130:19
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:126:18-66
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:127:13-129:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:17-78
+	android:name
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:25-75
+uses-sdk
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\3df4e5f93f01ddb1f1057249a8bf4e03\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\3df4e5f93f01ddb1f1057249a8bf4e03\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.frhnfrq:MathView:1.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\c5a50b4240ec642878525ec231bcb4b6\transformed\jetified-MathView-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.frhnfrq:MathView:1.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\c5a50b4240ec642878525ec231bcb4b6\transformed\jetified-MathView-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\8c90258a05236bb9de42c5ad47d7cfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\8c90258a05236bb9de42c5ad47d7cfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f89fd55b75f3ec332e525836f6009cab\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f89fd55b75f3ec332e525836f6009cab\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9e4b101e84956488c4ac10e3791265be\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9e4b101e84956488c4ac10e3791265be\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cbea099d21f40178a915a8e1781e1ce6\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cbea099d21f40178a915a8e1781e1ce6\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\da54133dfb746b4b6ebfad0cadb8e58c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\da54133dfb746b4b6ebfad0cadb8e58c\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57384784a2883784f8dcc85ff2427f84\transformed\jetified-junit-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.3] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57384784a2883784f8dcc85ff2427f84\transformed\jetified-junit-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\4f6e91c13b8202a10bb208ce83eaaab0\transformed\jetified-threetenabp-1.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.1] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\4f6e91c13b8202a10bb208ce83eaaab0\transformed\jetified-threetenabp-1.2.1\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\09e16e1710fe0196aa47cc783a870f83\transformed\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\09e16e1710fe0196aa47cc783a870f83\transformed\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\220309cd4772e77222f2620466cc6a9d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\220309cd4772e77222f2620466cc6a9d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\5ae3660e2c88858c950a8e4808de37ad\transformed\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\5ae3660e2c88858c950a8e4808de37ad\transformed\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\b06402955e9a9d7dfd8204617fc0c41e\transformed\jetified-library-1.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\b06402955e9a9d7dfd8204617fc0c41e\transformed\jetified-library-1.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\36fe4bd87a963f73148b776a1445abe2\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\36fe4bd87a963f73148b776a1445abe2\transformed\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d79f0b1e04c5b59e75d746ffd24b18a2\transformed\jetified-eazegraph-1.2.5l\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.5l] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d79f0b1e04c5b59e75d746ffd24b18a2\transformed\jetified-eazegraph-1.2.5l\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2aa6eb176ef4594e3f86e7e54a8f9c74\transformed\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2aa6eb176ef4594e3f86e7e54a8f9c74\transformed\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6d80436f2c721f9feff9afb28b23744\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6d80436f2c721f9feff9afb28b23744\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\accc618511aaeacc8a10bd91080750de\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\accc618511aaeacc8a10bd91080750de\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a2359164927b4ff6be0a1395290865d1\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a2359164927b4ff6be0a1395290865d1\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\906ac9a93c1043699ff32a66b40c9546\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\906ac9a93c1043699ff32a66b40c9546\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57891f80f7fb2536ddf0196f6ba749fa\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\57891f80f7fb2536ddf0196f6ba749fa\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6b9dc49b72918eea60bcb9b18009382\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a6b9dc49b72918eea60bcb9b18009382\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f2e7296939f8340b940a3234be4c43ce\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\f2e7296939f8340b940a3234be4c43ce\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\05c813ae4b755be101029b0e6694dbfc\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\05c813ae4b755be101029b0e6694dbfc\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d3593412a8cc8b550019139425d6b99f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d3593412a8cc8b550019139425d6b99f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2bcf92ac9552b41517f1e0174cad5d74\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\2bcf92ac9552b41517f1e0174cad5d74\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e44fdfcd9fa400694cbdf8beb75870d0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e44fdfcd9fa400694cbdf8beb75870d0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a24861241a1bef940d47c7361f68307d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a24861241a1bef940d47c7361f68307d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\49d98ed3c202b8ab24ccbd0f77b3dedd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\49d98ed3c202b8ab24ccbd0f77b3dedd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\0f87bf009742ac456b4f968d931878e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\0f87bf009742ac456b4f968d931878e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6846ba2f0d475797be5f5b846bd64567\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6846ba2f0d475797be5f5b846bd64567\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7ae2da507c9b4b0ebe81011487ad5f07\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7ae2da507c9b4b0ebe81011487ad5f07\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d2dac72b226f0869d2dd810ee8b6fed9\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d2dac72b226f0869d2dd810ee8b6fed9\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\65ff57c5cc5a14693cfd9c128aa2c53f\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\65ff57c5cc5a14693cfd9c128aa2c53f\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9105e7c865c8e75a67ea28de63aeba8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9105e7c865c8e75a67ea28de63aeba8a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\01d908b9f40aed9b46866f865e4c62b5\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\01d908b9f40aed9b46866f865e4c62b5\transformed\monitor-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c012d829e3749b594c88be26b38f603\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c012d829e3749b594c88be26b38f603\transformed\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\ace235149a2af72c1a93e73e52ccaf35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\ace235149a2af72c1a93e73e52ccaf35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9c03efda3b528c669583f68c7d85781c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\9c03efda3b528c669583f68c7d85781c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d96d128fbeafd3e60b50e946cc593d88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d96d128fbeafd3e60b50e946cc593d88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6c9437b84666a4cb39a8258eeab2dbdc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6c9437b84666a4cb39a8258eeab2dbdc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\98de6df431a8dd60ac5f62b13f5326be\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\98de6df431a8dd60ac5f62b13f5326be\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\eaea44f5fc0a7ed1bb73e4c841adedf9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\eaea44f5fc0a7ed1bb73e4c841adedf9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d4370f2e1d6676df168b3fe5be288104\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d4370f2e1d6676df168b3fe5be288104\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e1177077e2a794976f176b0a971d9ba1\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\e1177077e2a794976f176b0a971d9ba1\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\fc2169ee286fc52c4c6378ca756c7ad9\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\fc2169ee286fc52c4c6378ca756c7ad9\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		ADDED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103

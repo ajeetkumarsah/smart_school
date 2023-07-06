@@ -1,0 +1,455 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.qdocs.smartschool"
+4    android:versionCode="1"
+5    android:versionName="3.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+11-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:4:5-73
+11-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:4:22-70
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:5:5-81
+12-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission
+13-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:6:5-8:36
+14        android:name="android.permission.CALL_PHONE"
+14-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:7:9-53
+15        android:required="false" />
+15-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:8:9-33
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:9:5-80
+16-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:9:22-77
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:10:5-67
+17-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:10:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:11:5-79
+18-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:11:22-76
+19    <uses-permission android:name="android.permission.READ_CALENDAR" />
+19-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:12:5-72
+19-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:12:22-69
+20    <uses-permission
+20-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:13:5-15:36
+21        android:name="android.permission.CAMERA"
+21-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:14:9-49
+22        android:required="false" />
+22-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:15:9-33
+23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+23-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:16:5-75
+23-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:16:22-72
+24
+25    <uses-feature
+25-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:18:5-20:36
+26        android:name="android.hardware.telephony"
+26-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:19:9-50
+27        android:required="false" />
+27-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:20:9-33
+28    <uses-feature
+28-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:21:5-23:36
+29        android:name="android.hardware.camera.autofocus"
+29-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:22:9-57
+30        android:required="false" />
+30-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:23:9-33
+31
+32    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+32-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+32-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:22-65
+33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+33-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+33-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:22-79
+34    <uses-permission android:name="android.permission.REORDER_TASKS" />
+34-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+34-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+35
+36    <application
+36-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:25:5-131:19
+37        android:name="com.qdocs.smartschool.utils.MyApp"
+37-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:26:9-36
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\d9c9aec7edba0393c786b949cdae328b\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+39        android:debuggable="true"
+40        android:icon="@drawable/new_logo"
+40-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:27:9-42
+41        android:label="@string/app_name_new"
+41-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:28:9-45
+42        android:launchMode="singleInstance"
+42-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:29:9-44
+43        android:requestLegacyExternalStorage="true"
+43-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:30:9-52
+44        android:roundIcon="@drawable/new_logo"
+44-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:31:9-47
+45        android:supportsRtl="true"
+45-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:32:9-35
+46        android:testOnly="true"
+47        android:theme="@style/AppTheme"
+47-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:33:9-40
+48        android:usesCleartextTraffic="true" >
+48-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:34:9-44
+49        <activity
+49-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:35:9-37:40
+50            android:name="com.qdocs.smartschool.RoutineDetailsActivity"
+50-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:36:13-51
+51            android:exported="false" />
+51-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:37:13-37
+52        <activity
+52-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:38:9-40:40
+53            android:name="com.qdocs.smartschool.students.RoutineActivity"
+53-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:39:13-53
+54            android:exported="false" />
+54-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:40:13-37
+55        <activity android:name="com.qdocs.smartschool.students.StudentCoursePerformance" />
+55-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:41:9-71
+55-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:41:19-68
+56        <activity android:name="com.qdocs.smartschool.students.StudentUploadDocument" />
+56-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:42:9-68
+56-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:42:19-65
+57        <activity
+57-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:43:9-45:93
+58            android:name="com.qdocs.smartschool.students.StudentCourseDetail"
+58-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:44:13-57
+59            android:configChanges="orientation|keyboardHidden|screenSize|layoutDirection" />
+59-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:45:13-90
+60        <activity android:name="com.qdocs.smartschool.students.StudentOnlineCourse" />
+60-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:46:9-66
+60-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:46:19-63
+61        <activity
+61-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:47:9-49:62
+62            android:name="com.qdocs.smartschool.students.StudentStartLessonActivity"
+62-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:48:13-64
+63            android:configChanges="orientation|screenSize" />
+63-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:49:13-59
+64        <activity android:name="com.qdocs.smartschool.students.StudentLiveClasses" />
+64-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:50:9-65
+64-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:50:19-62
+65        <activity android:name="com.qdocs.smartschool.students.StudentGmeetLiveClasses" />
+65-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:51:9-70
+65-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:51:19-67
+66        <activity android:name="com.qdocs.smartschool.students.NotificationList" />
+66-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:52:9-63
+66-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:52:19-60
+67        <activity
+67-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:53:9-55:62
+68            android:name="com.qdocs.smartschool.students.StudentOnlineExamQuestionsNew"
+68-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:54:13-67
+69            android:configChanges="orientation|screenSize" />
+69-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:55:13-59
+70        <activity android:name="com.qdocs.smartschool.students.StudentOnlineExamResult" />
+70-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:56:9-70
+70-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:56:19-67
+71        <activity android:name="com.qdocs.smartschool.students.StudentOnlineExam" />
+71-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:57:9-64
+71-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:57:19-61
+72        <activity android:name="com.qdocs.smartschool.AboutSchool" />
+72-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:58:9-49
+72-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:58:19-46
+73        <activity android:name="com.qdocs.smartschool.students.StudentTimeline" />
+73-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:59:9-62
+73-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:59:19-59
+74        <activity android:name="com.qdocs.smartschool.students.StudentDocuments" />
+74-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:60:9-63
+74-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:60:19-60
+75        <activity android:name="com.qdocs.smartschool.SplashActivity" >
+75-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:61:9-67:20
+75-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:61:19-49
+76            <intent-filter>
+76-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:62:13-66:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:17-69
+77-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:65:17-77
+79-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:65:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity android:name="com.qdocs.smartschool.Login" />
+82-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:68:9-43
+82-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:68:19-40
+83        <activity android:name="com.qdocs.smartschool.students.StudentProfile" />
+83-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:69:9-61
+83-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:69:19-58
+84        <activity android:name="com.qdocs.smartschool.students.StudentProfileNew" />
+84-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:70:9-64
+84-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:70:19-61
+85        <activity android:name="com.qdocs.smartschool.students.StudentProfileDetailsNew" />
+85-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:71:9-71
+85-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:71:19-68
+86        <activity android:name="com.qdocs.smartschool.students.StudentUploadHomework" />
+86-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:72:9-68
+86-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:72:19-65
+87        <activity android:name="com.qdocs.smartschool.ForgotPassword" />
+87-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:73:9-52
+87-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:73:19-49
+88        <activity android:name="com.qdocs.smartschool.BaseActivity" />
+88-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:74:9-50
+88-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:74:19-47
+89        <activity android:name="com.qdocs.smartschool.students.StudentFees" >
+89-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:75:9-83:20
+89-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:75:19-55
+90            <intent-filter>
+90-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:76:13-82:29
+91                <action android:name="android.intent.action.VIEW" />
+91-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:77:17-69
+91-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:77:25-66
+92
+93                <category android:name="android.intent.category.DEFAULT" />
+93-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:79:17-76
+93-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:79:27-73
+94
+95                <data android:scheme="student_fees" />
+95-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:81:17-55
+95-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:81:23-52
+96            </intent-filter>
+97        </activity>
+98        <activity android:name="com.qdocs.smartschool.students.StudentNoticeBoard" />
+98-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:84:9-65
+98-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:84:19-62
+99        <activity android:name="com.qdocs.smartschool.students.StudentExaminationList" />
+99-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:85:9-69
+99-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:85:19-66
+100        <activity android:name="com.qdocs.smartschool.students.StudentReportCard_ExamListResult" />
+100-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:86:9-79
+100-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:86:19-76
+101        <activity android:name="com.qdocs.smartschool.students.StudentSubjectList" />
+101-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:87:9-65
+101-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:87:19-62
+102        <activity android:name="com.qdocs.smartschool.students.StudentTeachersList" />
+102-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:88:9-66
+102-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:88:19-63
+103        <activity android:name="com.qdocs.smartschool.students.StudentTransportRoutes" />
+103-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:89:9-69
+103-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:89:19-66
+104        <activity android:name="com.qdocs.smartschool.students.StudentDownloads" />
+104-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:90:9-63
+104-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:90:19-60
+105        <activity android:name="com.qdocs.smartschool.students.StudentAttendance" />
+105-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:91:9-64
+105-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:91:19-61
+106        <activity android:name="com.qdocs.smartschool.students.StudentReportCard_ExamList" />
+106-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:92:9-73
+106-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:92:19-70
+107        <activity android:name="com.qdocs.smartschool.students.StudentExamSchedule_ExamList" />
+107-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:93:9-75
+107-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:93:19-72
+108        <activity android:name="com.qdocs.smartschool.students.StudentExamSchedule" />
+108-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:94:9-66
+108-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:94:19-63
+109        <activity android:name="com.qdocs.smartschool.students.StudentHostel" />
+109-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:95:9-60
+109-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:95:19-57
+110        <activity android:name="com.qdocs.smartschool.students.StudentLibraryBook" />
+110-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:96:9-65
+110-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:96:19-62
+111        <activity android:name="com.qdocs.smartschool.students.StudentClassTimetable" />
+111-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:97:9-68
+111-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:97:19-65
+112        <activity android:name="com.qdocs.smartschool.students.StudentSyllabusTimetable" />
+112-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:98:9-71
+112-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:98:19-68
+113        <activity android:name="com.qdocs.smartschool.students.StudentSyllabusStatus" />
+113-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:99:9-68
+113-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:99:19-65
+114        <activity android:name="com.qdocs.smartschool.students.StudentHomework" />
+114-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:100:9-62
+114-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:100:19-59
+115        <activity android:name="com.qdocs.smartschool.students.StudentHomeworkDetails" />
+115-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:101:9-69
+115-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:101:19-66
+116        <activity android:name="com.qdocs.smartschool.students.StudentLibraryBookIssued" />
+116-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:102:9-71
+116-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:102:19-68
+117        <activity android:name="com.qdocs.smartschool.students.StudentAppyLeave" />
+117-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:103:9-63
+117-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:103:19-60
+118        <activity android:name="com.qdocs.smartschool.students.StudentAddLeave" />
+118-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:104:9-62
+118-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:104:19-59
+119        <activity android:name="com.qdocs.smartschool.students.StudentEditLeave" />
+119-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:105:9-63
+119-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:105:19-60
+120        <activity android:name="com.qdocs.smartschool.students.StudentSyllabus" />
+120-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:106:9-62
+120-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:106:19-59
+121        <activity android:name="com.qdocs.smartschool.students.StudentOnlineQuizResult" />
+121-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:107:9-70
+121-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:107:19-67
+122        <activity android:name="com.qdocs.smartschool.students.StudentSyllabuslesson" />
+122-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:108:9-68
+122-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:108:19-65
+123        <activity android:name="com.qdocs.smartschool.students.StudentOnlineCourseQuiz" />
+123-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:109:9-70
+123-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:109:19-67
+124        <activity
+124-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:110:9-112:62
+125            android:name="com.qdocs.smartschool.TakeUrl"
+125-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:111:13-36
+126            android:configChanges="orientation|screenSize" />
+126-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:112:13-59
+127        <activity android:name="com.qdocs.smartschool.OpenPdf" />
+127-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:113:9-45
+127-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:113:19-42
+128        <activity
+128-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:114:9-116:77
+129            android:name="com.qdocs.smartschool.students.StudentDashboard"
+129-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:115:13-54
+130            android:configChanges="orientation|keyboardHidden|screenSize" />
+130-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:116:13-74
+131        <activity android:name="com.qdocs.smartschool.students.StudentTasks" />
+131-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:117:9-59
+131-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:117:19-56
+132        <activity android:name="com.qdocs.smartschool.students.Payment" />
+132-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:118:9-54
+132-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:118:19-51
+133        <activity android:name="com.qdocs.smartschool.students.CoursePayment" />
+133-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:119:9-60
+133-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:119:19-57
+134        <activity
+134-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:120:9-123:53
+135            android:name="com.qdocs.smartschool.students.CourseVideoPlay"
+135-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:121:13-53
+136            android:configChanges="orientation|screenSize"
+136-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:122:13-59
+137            android:screenOrientation="landscape" />
+137-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:123:13-50
+138        <activity android:name="com.qdocs.smartschool.students.LiveClasses" />
+138-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:124:9-58
+138-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:124:19-55
+139
+140        <service android:name="com.qdocs.smartschool.utils.MyFirebaseMessagingService" >
+140-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:126:9-130:19
+140-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:126:18-66
+141            <intent-filter>
+141-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:127:13-129:29
+142                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+142-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:17-78
+142-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:25-75
+143            </intent-filter>
+144        </service>
+145        <!--
+146             FirebaseMessagingService performs security checks at runtime,
+147             but set to not exported to explicitly avoid allowing another app to call it.
+148        -->
+149        <service
+149-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+150            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+150-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+151            android:exported="false" >
+151-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\a7137377c40a2fcbc8d3cb3724eea7ca\transformed\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+152            <intent-filter android:priority="-500" >
+152-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:127:13-129:29
+153                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+153-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:17-78
+153-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:128:25-75
+154            </intent-filter>
+155        </service>
+156        <service
+156-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+157            android:name="com.google.firebase.components.ComponentDiscoveryService"
+157-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:30:13-84
+158            android:exported="false" >
+158-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:31:13-37
+159            <meta-data
+159-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+160                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+160-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+162        </service>
+163
+164        <receiver
+164-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+165            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+165-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+166            android:exported="true"
+166-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+167            android:permission="com.google.android.c2dm.permission.SEND" >
+167-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+168            <intent-filter>
+168-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+169                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+169-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+169-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\280d170c30ebe8f9c4a6e02aea154f10\transformed\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+170            </intent-filter>
+171        </receiver>
+172
+173        <provider
+173-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+174            android:name="com.google.firebase.provider.FirebaseInitProvider"
+174-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+175            android:authorities="com.qdocs.smartschool.firebaseinitprovider"
+175-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+176            android:exported="false"
+176-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+177            android:initOrder="100" />
+177-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\cdf20a84eff1b79d5bb0a063a3b41c00\transformed\jetified-firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+178
+179        <activity
+179-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+180            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+180-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+181            android:exported="false"
+181-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+182            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+182-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\7c21e865cc6a419e054513ba2018d1a8\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+183
+184        <meta-data
+184-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+185            android:name="com.google.android.gms.version"
+185-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+186            android:value="@integer/google_play_services_version" />
+186-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\6408f70a3bfdb4b1061ad8c5d8e16ad5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+187
+188        <activity
+188-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+189            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+189-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+190            android:exported="true"
+190-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+191            android:theme="@android:style/Theme" >
+191-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+192            <intent-filter>
+192-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+193                <action android:name="android.intent.action.MAIN" />
+193-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:17-69
+193-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:25-66
+194            </intent-filter>
+195        </activity>
+196        <activity
+196-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+197            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+197-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+198            android:exported="true"
+198-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+199            android:theme="@android:style/Theme" >
+199-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+200            <intent-filter>
+200-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+201                <action android:name="android.intent.action.MAIN" />
+201-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:17-69
+201-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:25-66
+202            </intent-filter>
+203        </activity>
+204        <activity
+204-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+205            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+205-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+206            android:exported="true"
+206-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+207            android:theme="@android:style/Theme.Dialog" >
+207-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+208            <intent-filter>
+208-->[androidx.test:core:1.4.0] C:\Users\Ajeet Kumar Sah\.gradle\caches\transforms-3\1854be931c6246fe8cfda1123f2504fe\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+209                <action android:name="android.intent.action.MAIN" />
+209-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:17-69
+209-->D:\Ajeet Kumar Sah\Android\smart_school_android_app_src\app\src\main\AndroidManifest.xml:63:25-66
+210            </intent-filter>
+211        </activity>
+212    </application>
+213
+214</manifest>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.CALL_PHONE"
+        android:required="false" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission
+        android:name="android.permission.CAMERA"
+        android:required="false" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <application
+        android:name=".utils.MyApp"
+        android:icon="@drawable/new_logo"
+        android:label="@string/app_name_new"
+        android:launchMode="singleInstance"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/new_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name=".RoutineDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".students.RoutineActivity"
+            android:exported="false" />
+        <activity android:name=".students.StudentCoursePerformance" />
+        <activity android:name=".students.StudentUploadDocument" />
+        <activity
+            android:name=".students.StudentCourseDetail"
+            android:configChanges="orientation|keyboardHidden|screenSize|layoutDirection" />
+        <activity android:name=".students.StudentOnlineCourse" />
+        <activity
+            android:name=".students.StudentStartLessonActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".students.StudentLiveClasses" />
+        <activity android:name=".students.StudentGmeetLiveClasses" />
+        <activity android:name=".students.NotificationList" />
+        <activity
+            android:name=".students.StudentOnlineExamQuestionsNew"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".students.StudentOnlineExamResult" />
+        <activity android:name=".students.StudentOnlineExam" />
+        <activity android:name=".AboutSchool" />
+        <activity android:name=".students.StudentTimeline" />
+        <activity android:name=".students.StudentDocuments" />
+        <activity android:name=".SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+        <activity android:name=".students.StudentProfile" />
+        <activity android:name=".students.StudentProfileNew" />
+        <activity android:name=".students.StudentProfileDetailsNew" />
+        <activity android:name=".students.StudentUploadHomework" />
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".students.StudentFees" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="student_fees" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".students.StudentNoticeBoard" />
+        <activity android:name=".students.StudentExaminationList" />
+        <activity android:name=".students.StudentReportCard_ExamListResult" />
+        <activity android:name=".students.StudentSubjectList" />
+        <activity android:name=".students.StudentTeachersList" />
+        <activity android:name=".students.StudentTransportRoutes" />
+        <activity android:name=".students.StudentDownloads" />
+        <activity android:name=".students.StudentAttendance" />
+        <activity android:name=".students.StudentReportCard_ExamList" />
+        <activity android:name=".students.StudentExamSchedule_ExamList" />
+        <activity android:name=".students.StudentExamSchedule" />
+        <activity android:name=".students.StudentHostel" />
+        <activity android:name=".students.StudentLibraryBook" />
+        <activity android:name=".students.StudentClassTimetable" />
+        <activity android:name=".students.StudentSyllabusTimetable" />
+        <activity android:name=".students.StudentSyllabusStatus" />
+        <activity android:name=".students.StudentHomework" />
+        <activity android:name=".students.StudentHomeworkDetails" />
+        <activity android:name=".students.StudentLibraryBookIssued" />
+        <activity android:name=".students.StudentAppyLeave" />
+        <activity android:name=".students.StudentAddLeave" />
+        <activity android:name=".students.StudentEditLeave" />
+        <activity android:name=".students.StudentSyllabus" />
+        <activity android:name=".students.StudentOnlineQuizResult" />
+        <activity android:name=".students.StudentSyllabuslesson" />
+        <activity android:name=".students.StudentOnlineCourseQuiz" />
+        <activity
+            android:name=".TakeUrl"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".OpenPdf" />
+        <activity
+            android:name=".students.StudentDashboard"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity android:name=".students.StudentTasks" />
+        <activity android:name=".students.Payment" />
+        <activity android:name=".students.CoursePayment" />
+        <activity
+            android:name=".students.CourseVideoPlay"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity android:name=".students.LiveClasses" />
+
+        <service android:name=".utils.MyFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
